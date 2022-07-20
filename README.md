@@ -1,1 +1,1 @@
-HTML Recipe Project
+For this project I will be creating a few pages consisting of a few of my favorite recipes. I will be demonstrating my ability to maneuver through the HTML language as well as Github. Fun!
